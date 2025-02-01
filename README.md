@@ -1,6 +1,6 @@
 # FAQ Manager
 
-**Faq Manager** is a dynamic and multilingual FAQ management system built with Django and Django Rest Framework (DRF). This project allows you to manage FAQs through an admin interface, display FAQs in different languages, and interact with them via a RESTful API. The app is designed to provide an easy-to-use interface for users while also offering a backend API to integrate with other applications.
+**FAQ Manager** is a dynamic and multilingual FAQ management system built with Django and Django Rest Framework (DRF). This project allows you to manage FAQs through an admin interface, display FAQs in different languages, and interact with them via a RESTful API. The app is designed to provide an easy-to-use interface for users while also offering a backend API to integrate with other applications.
 
 ## Features
 - **Admin Panel**: Allows administrators to manage FAQs through Django's admin interface.
